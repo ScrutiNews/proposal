@@ -1,12 +1,11 @@
 # ScrutiNews Proposal
 
-> The beaten generation, the beaten generation
+```The beaten generation, the beaten generation
+Reared on a diet of prejudice and misinformation
+The beaten generation, the beaten generation
+Open your eyes, open your imagination
 
-> Reared on a diet of prejudice and misinformation
-
-> The beaten generation, the beaten generation
-
-> Open your eyes, open your imagination - Matt Johnson, The The, 1989
+- Matt Johnson, The The, 1989```
 
 
 Author: John Durrant, February 2018
@@ -28,14 +27,14 @@ This is a proposal to create a news aggregation platform, starting with a protot
 
 ### Table of Contents
 
-* [Project Initiation](project-initiation.md)
-* [Proposal Process](proposal-process.md)
-* [Project Description](project-description.md)
-* [How. Platform and Features](how-platform-and-features.md)
-* [Technology and Development](technology-and-development.md)
-* [Guiding Principles](guiding-principles.md)
-* [Team](team.md)
-* [Business Considerations](business-considerations.md)
-* [Roadmap](roadmap.md)
-* [Conclusions](conclusions.md)
-* [References](references.md)
+1. [Project Initiation](project-initiation.md)
+1. [Proposal Process](proposal-process.md)
+1. [Project Description](project-description.md)
+1. [How. Platform and Features](how-platform-and-features.md)
+1. [Technology and Development](technology-and-development.md)
+1. [Guiding Principles](guiding-principles.md)
+1. [Team](team.md)
+1. [Business Considerations](business-considerations.md)
+1. [Roadmap](roadmap.md)
+1. [Conclusions](conclusions.md)
+1. [References](references.md)

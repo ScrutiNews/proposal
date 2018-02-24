@@ -16,6 +16,8 @@ Original Author: John Durrant, February 2018
 #### Contributors:
 Other contributors to this document will be recognised here, see 'Document Updates' below<br/><br/>
 
+<img src="pdf_icon.png">
+
 -----
 
 *"Holding content creators accountable through cryptocurrency empowered scrutiny..."*

@@ -6,3 +6,6 @@ Our guiding principles should guide us in the way we code, the way we communicat
 
 #### Open Source? 
 Can this project be done as an open source project, gaining the benefit of mass collaboration, while still maintaining the commercial viability should the source code be forked to launch competitors? If the project, as a whole, should not be open sourced, could it be broken down into open source modules?
+
+----------
+[CONTENTS](README.md) | [< BACK](technology-and-development.md) | [NEXT >](team.md)

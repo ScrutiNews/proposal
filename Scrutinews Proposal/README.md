@@ -16,7 +16,8 @@ Original Author: John Durrant, February 2018
 #### Contributors:
 Other contributors to this document will be recognised here, see 'Document Updates' below<br/><br/>
 
-<img src="pdf_icon.png">
+## PDF Version:
+[<img src="pdf_icon.png">](ScrutiNewsProposal-v1.0.0.pdf)<br/><br/>
 
 -----
 

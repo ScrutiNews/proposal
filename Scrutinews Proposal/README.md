@@ -51,4 +51,4 @@ This is a proposal to create a news aggregation platform, starting with a protot
 ## Document Updates
 Improvements to this document are welcome.  Branch from master and submit a pull request.
 
-NEXT > [Purpose, Audience and Disclaimers](purpose-audience-and-disclaimers.md)
+[NEXT >](purpose-audience-and-disclaimers.md)

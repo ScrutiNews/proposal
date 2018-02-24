@@ -6,7 +6,7 @@ Reared on a diet of prejudice and misinformation
 The beaten generation, the beaten generation
 Open your eyes, open your imagination
 
-- Matt Johnson, The The, 1989
+- [The Beaten Generation](https://www.youtube.com/watch?v=ustXRPke9lM), Matt Johnson, The The, 1989
 ```
 
 

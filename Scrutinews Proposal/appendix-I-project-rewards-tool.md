@@ -47,3 +47,7 @@ The primary Use Case for this tool is to recognise contributors to a speculative
 * View everyones contributions or just your own? Privacy / secrecy / Transparency?
 
 User Logins and Authentication:
+
+
+----------
+[CONTENTS](README.md) | [< BACK](references.md)

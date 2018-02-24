@@ -34,8 +34,8 @@ OR
 This is a proposal to create a news aggregation platform, starting with a prototype for cryptocurrency news, where articles are filtered and scrutinised to weed out false claims and prejudice, giving the reader a version of events they can trust. This proposal speculates on how a news scrutiny platform could be viable, given currently available technologies and market sentiment, and how the project could be funded and fuelled by a cryptocurrency ICO (Initial Coin Offering).
 
 
-### Table of Contents
-[Purpose, Audience and Disclaimers](purpose-audience-and-disclaimers.md)
+## Table of Contents
+* [Purpose, Audience and Disclaimers](purpose-audience-and-disclaimers.md)
 
 1. [Project Initiation](project-initiation.md)
 1. [Proposal Process](proposal-process.md)
@@ -49,7 +49,7 @@ This is a proposal to create a news aggregation platform, starting with a protot
 1. [Conclusions](conclusions.md)
 1. [References](references.md)
 
-[Appendix I: Project Rewards Tool](appendix-I-project-rewards-tool.md)
+* [Appendix I: Project Rewards Tool](appendix-I-project-rewards-tool.md)
 
 ## Document Updates
 Improvements to this document are welcome.  Branch from master and submit a pull request.

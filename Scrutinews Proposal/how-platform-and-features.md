@@ -74,7 +74,9 @@ For concepts and themes, we can crowdsource input into definitions, bringing cla
 For arguments we can highlight their inherent logic, their premises, and conclusions.
 
 #### Spectrum of Viewpoints:
-“Tyranny is the deliberate removal of nuance” - Albert Maysles. Mass media reporting often deliberately remove nuance from a story, painting it in black-and-white terms according to their agenda or whatever bias held by their readership. ScrutiNews aims to show all the nuances.
+> “Tyranny is the deliberate removal of nuance” - Albert Maysles. 
+
+Mass media reporting often deliberately remove nuance from a story, painting it in black-and-white terms according to their agenda or whatever bias held by their readership. ScrutiNews aims to show all the nuances.
 
 One of the pieces of content produced by Scrutineers will be a taxonomy or categorisation of viewpoints around a particular issue. We want to expose the nuances, the shades of grey around an issue, analysing and understanding what justifications are used to support different viewpoints.
 

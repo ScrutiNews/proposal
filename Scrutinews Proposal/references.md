@@ -36,3 +36,6 @@ I have read or dipped into the resources below which have had some influence on 
 * Fundamentals of Critical Argumentation: Douglas Walton - https://www.amazon.co.uk/Fundamentals-Critical-ArgumentationReasoning/dp/0521530202 
 * The Crowd: A Study of the Popular Mind - Gustave Le Bon - https://www.amazon.co.uk/dp/B019GDPMHM 
 ScrutiNews 
+
+----------
+[CONTENTS](README.md) | [< BACK](conclusions.md) | [NEXT >](appendix-I-project-rewards-tool.md)

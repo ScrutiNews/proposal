@@ -9,7 +9,8 @@ This will be an evolving concept which will grow through collaborative thinking 
 * A ScrutiNews 'Foundation' to ensure principled governance so that the platform is guaranteed independent, transparent, and incorruptible. 
 * Guides, tutorials, and tools enabling detailed scrutiny and analysis. 
 * Meta-analysis and statistics on the credibility of media platforms and individual journalists. 
-* APIs for syndicated distribution of ScrutiNews daily outputs.  Expand scrutiny methodology to any other applicable content (chapters in books, blogs, Wikipedia pages, documentaries, interviews with politicians, advertising, political manifestos etc.). 
+* APIs for syndicated distribution of ScrutiNews daily outputs. 
+* Expand scrutiny methodology to any other applicable content (chapters in books, blogs, Wikipedia pages, documentaries, interviews with politicians, advertising, political manifestos etc.). 
 * ScrutiNews video media channels, providing high quality daily synopsis and analysis. 
 * Timestamped immutable blockchain storage of cryptographically hashed articles to avoid articles disappearing down an Orwellian 'memory hole' where text is altered, and old versions destroyed.
 

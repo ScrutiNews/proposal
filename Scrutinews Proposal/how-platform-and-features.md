@@ -111,3 +111,6 @@ Whenever a user illuminates an issue through inspired insight, or concisely desc
 
 #### Aim of all Features: 
 The whole aim of the ScruitiNews platform is to strip out bias, bullshit, ambiguities, and complications from news items and distil them down into chunks of analysis so that everyday people have access to clear and concise analysis on the important events of the day, improving people's awareness of how to critically filter information, and exposing the credibility of journalists, media outlets, and information provided on the web.
+
+----------
+[CONTENTS](README.md) | [< BACK](project-description.md) | [NEXT >](technology-and-development.md)

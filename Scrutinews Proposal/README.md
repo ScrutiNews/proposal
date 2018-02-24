@@ -32,6 +32,7 @@ This is a proposal to create a news aggregation platform, starting with a protot
 
 
 ### Table of Contents
+[Purpose, Audience and Disclaimers](purpose-audience-and-disclaimers.md)
 
 1. [Project Initiation](project-initiation.md)
 1. [Proposal Process](proposal-process.md)

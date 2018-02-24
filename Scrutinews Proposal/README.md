@@ -52,7 +52,7 @@ This is a proposal to create a news aggregation platform, starting with a protot
 * [Appendix I: Project Rewards Tool](appendix-I-project-rewards-tool.md)<br/><br/>
 
 ## Document Updates
-Improvements to this document are welcome.  Branch from master and submit a pull request.<br/><br/>
+Improvements to this document are welcome.  Plaease branch from `master` and submit a pull request.<br/><br/>
 
 ## Working Title
 *ScrutiNews is a working title. News will be the first target for scrutiny, but ultimately the tools and methodologies created for ScrutiNews could be applied to any kind of content. ScrutiNews will suffice until someone thinks of a better name.*<br/><br/>

@@ -14,3 +14,10 @@ This proposal talks about possibility and potential, but implies a call to actio
 * Follow the project on GitHub and ask John D for an invite: https://github.com/ScrutiNews 
 * Request an invitation to the ScrutiNews Trello Team from John D: https://trello.com/scrutinews 
 * Pass any ideas, critique or suggestions to John D
+
+#### John D's 'Why?': 
+I was attracted to programming as a tool to make something brilliant, something worldimpacting. However, the reality has been to work on arguably trivial commercial products, of little importance in the progress of humanity or any other major project of personal self-fulfilment. Taking on traditional news media and social media is like simultaneously fighting a Leviathan and a Behemoth, but as mythology teaches us, the dragons are always guarding the gold, and the gold in this project would be the enourmous sense of pride and self-satisfaction from achieving something so meaningful.  I would like to find a way to make this project my full time job, and bring a few others along with me so that we could enjoy the satisfaction of working on something truly worthwhile, pulling journalism and online debate out of the gutter to elevate public discourse so collectively we make better decisions for the world we inhabit.
+
+Damn, this all sounds a bit ambitious, but what the hell... 
+
+> “To live is to suffer, to survive is to find some meaning in the suffering.” - Friedrich Nietzsche 

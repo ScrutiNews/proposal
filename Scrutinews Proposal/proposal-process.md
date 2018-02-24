@@ -22,3 +22,6 @@ f) Make a Start:
 * Build a fancy website to support the project and the ICO, and begin work on the prototype and a mini-application to track people's contributions.
 
 Any of the above may change, remember this is just a proposal…
+
+----------
+[CONTENTS](README.md) | [< BACK](project-initiation.md) | [NEXT >](project-description.md)

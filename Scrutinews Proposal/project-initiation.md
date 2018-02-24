@@ -3,7 +3,7 @@
 
 This is a project in multiple stages, starting with a collaboration to build a prototype.
 
-I want to build the platform 'ScrutiNews', a news aggregator providing real-time news updates from multiple sources which are scrutinised and curated by specially trained 'Scrutineers' to weed out unreliable 'fake' reports and give context and analysis to reports.
+I want to build the platform 'ScrutiNews', a news aggregator providing real-time news updates from multiple sources which are scrutinised and curated by specially trained 'Scrutineers' to weed out unreliable 'fake' reports and give context and analysis to incoming news feeds.
 
 The first implementation of ScrutiNews will be the \*world's best CryptoAsset news aggregator, taking advantage of the current high levels of interest in this emerging field, and the copious amounts of bad reporting. Later implementations will extend the ScrutiNews platform to encompass other specialist industry news aggregation and curation. ScrutiNews will culminate in providing scrutiny, analysis and curation of mass media news, a field rife with misinformation and a chance to do something worthwhile for the progress of humanity. Early adopters of cryptocurrency are disproportionately the kind of people who sceptically question the authority of the mass media, and who will open-mindedly embrace the pursuit of truth and clarity in the public discourse.
 

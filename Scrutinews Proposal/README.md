@@ -4,9 +4,9 @@
 >The beaten generation, the beaten generation<br/>
 >Reared on a diet of prejudice and misinformation<br/>
 >The beaten generation, the beaten generation<br/>
->Open your eyes, open your imagination
+>Open your eyes, open your imagination...
 
-Matt Johnson, [The Beaten Generation](https://www.youtube.com/watch?v=ustXRPke9lM), The The, 1989 
+Matt Johnson, [The Beaten Generation](https://www.youtube.com/watch?v=ustXRPke9lM), The The, 1989<br/><br/>
 
 
 

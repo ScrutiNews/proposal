@@ -1,5 +1,5 @@
 
-#2. Proposal Process:
+# 2. Proposal Process:
 
 Slack: A slack 'workgroup' has been created to evaluate this proposal, please request an invite if you wish to be involved in these early discussions. The address is: https://scrutinews.slack.com/
 

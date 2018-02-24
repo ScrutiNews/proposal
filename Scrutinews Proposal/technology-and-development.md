@@ -21,3 +21,6 @@ A common range of on-line tools are typically used by projects in the cryptocurr
 * Slack for collaboration and chat. Already created at - https://scrutinews.slack.com/ 
 * Telegram for ICO PR and chat 
 * A well managed and frequently updated Reddit channel for community building
+
+----------
+[CONTENTS](README.md) | [< BACK](how-platform-and-features.md) | [NEXT >](guiding-principles.md)

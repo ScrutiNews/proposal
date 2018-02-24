@@ -31,7 +31,7 @@ OR
 <br/><br/>
 
 ## Summary:
-This is a proposal to create a news aggregation platform, starting with a prototype for cryptocurrency news, where articles are filtered and scrutinised to weed out false claims and prejudice, giving the reader a version of events they can trust. This proposal speculates on how a news scrutiny platform could be viable, given currently available technologies and market sentiment, and how the project could be funded and fuelled by a cryptocurrency ICO (Initial Coin Offering).
+This is a proposal to create a news aggregation platform, starting with a prototype for cryptocurrency news, where articles are filtered and scrutinised to weed out false claims and prejudice, giving the reader a version of events they can trust. This proposal speculates on how a news scrutiny platform could be viable, given currently available technologies and market sentiment, and how the project could be funded and fuelled by a cryptocurrency ICO (Initial Coin Offering).<br/><br/>
 
 
 ## Table of Contents
@@ -49,13 +49,13 @@ This is a proposal to create a news aggregation platform, starting with a protot
 1. [Conclusions](conclusions.md)
 1. [References](references.md)
 
-* [Appendix I: Project Rewards Tool](appendix-I-project-rewards-tool.md)
+* [Appendix I: Project Rewards Tool](appendix-I-project-rewards-tool.md)<br/><br/>
 
 ## Document Updates
-Improvements to this document are welcome.  Branch from master and submit a pull request.
+Improvements to this document are welcome.  Branch from master and submit a pull request.<br/><br/>
 
 ## Working Title
-*ScrutiNews is a working title. News will be the first target for scrutiny, but ultimately the tools and methodologies created for ScrutiNews could be applied to any kind of content. ScrutiNews will suffice until someone thinks of a better name.*
+*ScrutiNews is a working title. News will be the first target for scrutiny, but ultimately the tools and methodologies created for ScrutiNews could be applied to any kind of content. ScrutiNews will suffice until someone thinks of a better name.*<br/><br/>
 
 -------
 [NEXT >](purpose-audience-and-disclaimers.md)

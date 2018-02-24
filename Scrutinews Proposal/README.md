@@ -46,5 +46,7 @@ This is a proposal to create a news aggregation platform, starting with a protot
 1. [Conclusions](conclusions.md)
 1. [References](references.md)
 
+[Appendix I: Project Rewards Tool](appendix-I-project-rewards-tool.md)
+
 ## Document Updates
 Improvements to this document are welcome.  Branch from master and submit a pull request.

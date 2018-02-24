@@ -7,31 +7,30 @@ The primary Use Case for this tool is to recognise contributors to a speculative
 
 #### High Level Specifications:
 
-	* The requirement is to build an online tool to track input (e.g. labour) into a project via cryptocurrency token payments, providing a transparent, immutable and secure method of accounting, resistant to fraud or hacks. 
-	* The tokens could have real value, e.g. backed by an existing cryptocurrency, or they could have nominal value, just tokens representing effort, which may serve some other future purpose (e.g. converted into shares in a company).
-	* The token will be a
-	* The tool will therefore offer a web based front end, which is a window into the Ethereum blockchain, with the ability to call certain methods on the Ethereum Smart contract.
-	* The tool will have basic Invoice Approval and Remittances functionality, as per an Accounts Payable system
-	* The tool will allow a user to view transaction histories, linking an Ethereum transaction ID to a specific invoice, for a specific piece of work.
-	* The tool will provide User Login and Authentications and allow the specification and assignment of different Roles within the system, giving permissions to use desired functionality.
+* The requirement is to build an online tool to track input (e.g. labour) into a project via cryptocurrency token payments, providing a transparent, immutable and secure method of accounting, resistant to fraud or hacks. 
+* The tokens could have real value, e.g. backed by an existing cryptocurrency, or they could have nominal value, just tokens representing effort, which may serve some other future purpose (e.g. converted into shares in a company).
+* The token will be a
+* The tool will therefore offer a web based front end, which is a window into the Ethereum blockchain, with the ability to call certain methods on the Ethereum Smart contract.
+* The tool will have basic Invoice Approval and Remittances functionality, as per an Accounts Payable system
+* The tool will allow a user to view transaction histories, linking an Ethereum transaction ID to a specific invoice, for a specific piece of work.
+* The tool will provide User Login and Authentications and allow the specification and assignment of different Roles within the system, giving permissions to use desired functionality.
 
 
 #### Questions/Investigation - Smart Contracts for full Accounts Payable?
 
-	* Should the whole payments request and approval functionality take place via Smart Contracts, with the UI simply providing a window into the blockchain records.
-	* Or should the approval functionality be in an offline DB and only the approved transactions via Smart Contract?
-	* The answer to the above may depend on Gas costs (e.g. if the cost of processing every single request to the Ethereum network is too much of an overhead for a full accounts payable system)
-
+* Should the whole payments request and approval functionality take place via Smart Contracts, with the UI simply providing a window into the blockchain records.
+* Or should the approval functionality be in an offline DB and only the approved transactions via Smart Contract?
+* The answer to the above may depend on Gas costs (e.g. if the cost of processing every single request to the Ethereum network is too much of an overhead for a full accounts payable system)
 
 #### Process:
 
-	* Pre-agree a price for a work ticket (e.g. through bidding or through some other price setting method)
-	* Pre-agree conditions, payments, and penalties
-	* Do the work and meet the conditions
-	* Submit Invoice (e.g. this could be automated via a git-hook - the commit reference may contain the required ticket info to trigger the appropriate invoice)
-	* Invoice approval process 
-	* Immediate remittance via Ethereum blockchain.
-	* Note: would need some way of requesting payment back from the Payee in the event of overpayments / mistakes
+* Pre-agree a price for a work ticket (e.g. through bidding or through some other price setting method)
+* Pre-agree conditions, payments, and penalties
+* Do the work and meet the conditions
+* Submit Invoice (e.g. this could be automated via a git-hook - the commit reference may contain the required ticket info to trigger the appropriate invoice)
+* Invoice approval process 
+* Immediate remittance via Ethereum blockchain.
+* Note: would need some way of requesting payment back from the Payee in the event of overpayments / mistakes
 
 
 #### Areas of functionality:

@@ -1,4 +1,4 @@
-# ScrutiNews Proposal
+# ScrutiNews Proposal v1.0.1
 
 
 >The beaten generation, the beaten generation<br/>

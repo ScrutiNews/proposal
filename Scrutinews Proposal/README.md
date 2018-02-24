@@ -6,7 +6,7 @@
 >The beaten generation, the beaten generation<br/>
 >Open your eyes, open your imagination...
 
-Matt Johnson, [The Beaten Generation](https://www.youtube.com/watch?v=ustXRPke9lM), The The, 1989<br/><br/>
+Matt Johnson, [The Beat(en) Generation](https://www.youtube.com/watch?v=ustXRPke9lM), The The, 1989<br/><br/>
 
 
 

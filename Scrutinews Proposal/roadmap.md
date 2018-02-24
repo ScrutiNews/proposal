@@ -6,7 +6,7 @@ This will be an evolving concept which will grow through collaborative thinking 
 * Distributed architecture, avoiding attacks and encouraging availability in repressive regimes. 
 * Internationalisation, multi-languages - it's useful to see how the same story is reported in different countries. 
 * Cryptocurrency token based economic system to support and incentivise activity on the platform. 
-* ScrutiNews foundation to ensure principled governance so that the platform is guaranteed independent, transparent, and incorruptible. 
+* A ScrutiNews 'Foundation' to ensure principled governance so that the platform is guaranteed independent, transparent, and incorruptible. 
 * Guides, tutorials, and tools enabling detailed scrutiny and analysis. 
 * Meta-analysis and statistics on the credibility of media platforms and individual journalists. 
 * APIs for syndicated distribution of ScrutiNews daily outputs.  Expand scrutiny methodology to any other applicable content (chapters in books, blogs, Wikipedia pages, documentaries, interviews with politicians, advertising, political manifestos etc.). 

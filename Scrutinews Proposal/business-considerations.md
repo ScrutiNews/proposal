@@ -23,7 +23,7 @@ c) Scrutiny 'bounties' offered to review content:
 * A possible use of the 'bounty' concept could be where a media outlet, particularly proud of a published article, pays to have it thoroughly scrutinised, thereby enhancing its audience appeal, or pays to have a rival's article run through the scrutiny mill in order to expose a lack of diligence.
 
 d) Advertising: 
-* Advertising is a common revenue mechanism, however a platform aiming to reduce bias and manipulation should probably avoid advertising and remain completely impartial. Advertising as a source of revenue should only be considered if it does not create a conflict of interest.
+* Advertising is a common revenue mechanism, however a platform aiming to reduce bias and manipulation should probably avoid advertising and remain completely impartial. Advertising as a source of revenue should only be considered if it does not create a conflict of interest and does not spoil the user experience.
 
 ### 8.3 Target Market:
 > “There are three classes of people: Those who see. Those who see when they are shown. Those who do not see.” - Leonardo Da Vinci

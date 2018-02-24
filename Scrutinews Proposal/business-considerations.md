@@ -38,5 +38,4 @@ b) Those who see when they are shown:
 
 c) Those who do not see:
 * Those who do not see will experience ScrutiNews when they are being abusive or idiotic in online debates. An enlightened ScrutiNews user will post a clear 'shareable' ScrutiNews summary of the knowns and unknowns, and the spectrum of viewpoints on the given issue and hopefully the prejudiced and inaccurate line of attack will be shown up for what it is, and the culprit will back down. Of course, we don't want to attract mindless idiots, entrenched in their bitter prejudices, with their mind closed to alternative viewpoints. Such users should be ostracised from the platform, called out whenever they engage in unwanted behaviour and removed from the platform.
-
-The optimistic stance is that people can change over time, given the will and the right environment, and that the proportion of 'Those who do not see' will decrease within the more enlightened culture of public discourse that ScrutiNews wishes to promote.
+* The optimistic stance is that people can change over time, given the will and the right environment, and that the proportion of 'Those who do not see' will decrease within the more enlightened culture of public discourse that ScrutiNews wishes to promote.

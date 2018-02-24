@@ -46,3 +46,6 @@ The aim will be to create a platform, on which the CryptoAssets news aggregator 
 * Hold a Token Generation Event (E.g. ICO initial Coin Offering), including roadmap, business plan, and whitepaper. 
 * Launch the first use case, ScrutiNews for Cryptoassets 
 * Promote like hell, and generate a revenue stream.
+
+----------
+[CONTENTS](README.md) | [< BACK](proposal-process.md) | [NEXT >](how-platform-and-features.md)

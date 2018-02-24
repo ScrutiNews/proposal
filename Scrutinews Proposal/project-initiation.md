@@ -19,3 +19,6 @@ For the sake of my children and the world at large, this is the most purposeful 
 This is a proposal for a collaborative project to build a News Scrutiny platform utilising a cryptocurrency micro-payments token to create an internal system of payments and rewards for participants. Providing real-time news updates, exposing bad journalism, celebrating good journalism, understanding the spectrum of perspectives, fact finding, and bringing clarity...
 
 It is said that we're living in a 'post-truth era' where politicians and mass-media pick whatever 'facts' suit their agenda. And there are still repressive regimes in the world where information is censored and manipulated to an Orwellian extent. Intelligent people are sick of this, let's give them something better.
+
+----------
+[CONTENTS](README.md) | [< BACK](purpose-audience-and-disclaimers.md) | [NEXT >](proposal-process.md)

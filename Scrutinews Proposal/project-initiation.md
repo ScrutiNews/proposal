@@ -1,5 +1,5 @@
 
-# Project Initiation
+# 1. Project Initiation
 
 This is a project in multiple stages, starting with a collaboration to build a prototype.
 

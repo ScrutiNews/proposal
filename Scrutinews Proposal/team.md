@@ -23,3 +23,6 @@ Code repositories have been created for building the Project Rewards Tool:
 
 A Trello board is set up to manage the tool development at: https://trello.com/scrutinews 
 A slack channel #projects-rewards-tool has been created at https://scrutinews.slack.com
+
+----------
+[CONTENTS](README.md) | [< BACK](guiding-principles.md) | [NEXT >](business-considerations.md)

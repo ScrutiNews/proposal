@@ -10,8 +10,11 @@ Open your eyes, open your imagination
 ```
 
 
-Author: John Durrant, February 2018
+## Authors: 
+Original Author: John Durrant, February 2018
 
+#### Contributors:
+Other contributors to this document will be recognised here, see 'Document Updates' below
 
 -----
 
@@ -40,3 +43,6 @@ This is a proposal to create a news aggregation platform, starting with a protot
 1. [Roadmap](roadmap.md)
 1. [Conclusions](conclusions.md)
 1. [References](references.md)
+
+## Document Updates
+Improvements to this document are welcome.  Branch from master and submit a pull request.

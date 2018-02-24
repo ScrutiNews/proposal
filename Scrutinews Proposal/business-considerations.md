@@ -5,7 +5,7 @@ The inputs to any venture are labour and capital. It is hoped that labour will i
 
 This will start as a bootstrapped project for building a prototype, with any minimal funding requirements provided by those key participants with access to funds. The ICO will provide an allocation for ongoing funding according to a roadmap, complemented by a subscriptions and syndication based revenue model (E.g. Subscribers to the platform and feed services).
 
-A successful ICO will require a competent and believable team, a realistic and motivating roadmap, a well written whitepaper, a secure and properly constructed smart contract for collecting ICO funds, transparent and principled approach to governance, and an authentic voice in everything we do to create excellent public relations.
+A successful ICO will require a competent and believable team, a realistic and motivating roadmap, a well written whitepaper, a secure and properly constructed Smart Contract for collecting ICO funds, a transparent and principled approach to governance, and an authentic voice in everything we do to create excellent public relations.
 
 Some ICOs have raised a huge amount of funds, capitalising on the excitement and exuberance of the cryptocurrency scene. It's common to see ICOs reaching several $million in a very short time.
 
@@ -13,7 +13,7 @@ Some ICOs have raised a huge amount of funds, capitalising on the excitement and
 It is envisioned that ScrutiNews would launch as a private commercial organisation, with the aim of becoming commercially viable through a range of possible revenue models.
 
 a) Subscription Revenues: 
-* A premium subscription service would provide users with an enhanced experience over guest users. For example, the Guest User experience will be interrupted with requests.
+* A premium subscription service would provide users with an enhanced experience over guest users. For example, the Guest User experience will be interrupted with requests to screen and categorise incoming feeds..
 
 b) Licensing / Syndicating ScrutiNews content: 
 * The re-use of ScrutiNews output via licensing/syndicating to third parties. Should a mainstream news organisation wish to use our content, there would be a licensing fee.

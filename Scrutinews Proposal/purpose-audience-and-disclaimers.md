@@ -17,3 +17,6 @@ Nothing within this document constitutes a commitment or any promise of a legal 
 
 ### Copyright: 
 Copyrighted by John Durrant. This document or any part of this document is not to be copied, distributed, or re-used outside of the the purposes of collaborating with the team associated with this project.
+
+----------
+CONTENTS(README.md) | [< BACK](README.md) | [> NEXT](project-initiation.md)

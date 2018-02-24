@@ -4,12 +4,10 @@
 Slack: A slack 'workgroup' has been created to evaluate this proposal, please request an invite if you wish to be involved in these early discussions. The address is: https://scrutinews.slack.com/
 
 a) Gauge Interest:
-
-I will initially share this proposal amongst a few friends and colleagues whom I think would have a high-level interest in what I'm trying to achieve and whom I trust to give their honest and insightful feedback on the project proposal.
+* I will initially share this proposal amongst a few friends and colleagues whom I think would have a high-level interest in what I'm trying to achieve and whom I trust to give their honest and insightful feedback on the project proposal.
 
 b) Technical Implementation Ideas:
-
-Next, I will consult with technical colleagues to generate ideas on implementation details, and attempt to involve a group of core developers interested in forming a team to participate in the project.
+* Next, I will consult with technical colleagues to generate ideas on implementation details, and attempt to involve a group of core developers interested in forming a team to participate in the project.
 
 c) Governance and Principles:
 

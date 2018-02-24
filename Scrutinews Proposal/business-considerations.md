@@ -20,7 +20,7 @@ b) Licensing / Syndicating ScrutiNews content:
 
 c) Scrutiny 'bounties' offered to review content:
 * When a content creator, such as the marketing/PR division of a company, wants to communicate to its audience in a sincere and authentic voice, it may wish to run its content through the Scrutineers to reveal any unintended holes in its communication. The bounty would be a fee denominated in the ScrutiNews cryptocurrency token. The higher the bounty offered, the more attention from Scrutineers as they compete to provide the best scrutiny. 
-* It's possible that the 'bounty' concept could be where a media outlet, particularly proud of a published article, paying to have it thoroughly scrutinised, thereby enhancing its audience appeal, or paying to have a rival's article run through the scrutiny mill in order to expose a lack of diligence.
+* A possible use of the 'bounty' concept could be where a media outlet, particularly proud of a published article, pays to have it thoroughly scrutinised, thereby enhancing its audience appeal, or pays to have a rival's article run through the scrutiny mill in order to expose a lack of diligence.
 
 d) Advertising: 
 * Advertising is a common revenue mechanism, however a platform aiming to reduce bias and manipulation should probably avoid advertising and remain completely impartial. Advertising as a source of revenue should only be considered if it does not create a conflict of interest.

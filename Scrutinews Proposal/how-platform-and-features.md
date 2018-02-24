@@ -1,5 +1,7 @@
 # 4. How. Platform and Features: 
-#### The diagram below depicts the main activities and workflow of the proposed ScrutiNews platform:
+The diagram below depicts the main activities and workflow of the proposed ScrutiNews platform:
+
+<img src="drawio_scrutinews.jpg">
 
 The diagram above depicts a basic workflow within the ScrutiNews platform. We take feed inputs via RSS (Really Simple Syndication) and hand picked news items. Scrutineers break them down into core elements so they can be evaluated, analysed, and simplified in ways that are meaningful to a variation of personal tastes. An especially created cryptocurrency micro-payments token is used to incentivise the Scrutineers and to take payments to support the revenue model (The Bitcoin icon was used above, but in actuality there would be something like ScrutiCoin)
 

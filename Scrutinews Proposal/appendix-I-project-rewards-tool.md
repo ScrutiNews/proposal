@@ -27,9 +27,10 @@ The primary Use Case for this tool is to recognise contributors to a speculative
 The below is just one possibility on how to go about implementing this project. Better suggestions are welcome.
 
 1. Create the Ethereum Smart Contracts
-..* BUllet
-..* Next Bullet
+   - BUllet
+   - Next Bullet
 1. Next step
+   - Next Bullet
 
 
 ## Lower level Requirements, Deails, Thoughts, Questions:

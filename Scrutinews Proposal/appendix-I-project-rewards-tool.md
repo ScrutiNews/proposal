@@ -30,7 +30,7 @@ The below is just one possibility on how to go about implementing this project. 
 
 #### Build the dApp (Distributed Application)
 1. Create the Ethereum Smart Contracts:
-   - Create the main token contract, using [ERC20 Standards](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) exposing methods to do 'Accounts Payble' functionality (invoice submission, invoice approvals, remittences)
+   - Create the main token contract, using [ERC20 Standards](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) exposing methods to do 'Accounts Payable' functionality (invoice submission, invoice approvals, remittances)
    - Once the Smart Contracts are up and running, we could start using them for this 'Projects Rewards Tool' project by interacting with the contracts via the [Ethereum Mist Wallet](https://github.com/ethereum/mist/releases), [MetaMask](https://metamask.io/), or simply through an [Ethereum GETH Command Line Console](https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options)
    - The Ethereum Smart Contracts can be built using [Solidity](https://solidity.readthedocs.io/en/develop/), [YouTube Tutorial](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
    - The Smart Contracts can be built and tested using [Truffle Framework](http://truffleframework.com/) and [Remix IDE](https://remix.ethereum.org/)
@@ -39,15 +39,15 @@ The below is just one possibility on how to go about implementing this project. 
    - A repos has been created for storing smart contracts at: https://github.com/ScrutiNews/project-rewards-contracts
 1. Next, we could build a fancy front-end User Interface (UI) to interface with the Smart Contracts:
    - Should we use the [Truffle Framework](http://truffleframework.com/) or build our own using a more traditional technical stack combined with the [Web3.js](https://github.com/ethereum/web3.js/) JavaScript API tool?
-   - The fancy UI will make it easy for people to manage invoice submission, approvals and remittences, as well as interrogation of the Etherium blockachain to do things like view balances and transactions history. It wall also manage user login/authentication and roles, as well as providing customisable guideline information and configuration options.
-1. Tinker with other Smart Contract Platforms to evaluate whether Ethereum is the most suitale for our needs:
+   - The fancy UI will make it easy for people to manage invoice submission, approvals and emittances, as well as interrogation of the Ethereum Blockchain to do things like view balances and transactions history. It wall also manage user login/authentication and roles, as well as providing customisable guideline information and configuration options.
+1. Tinker with other Smart Contract Platforms to evaluate whether Ethereum is the most suitable for our needs:
    - For Micro-Payments, maybe something like [IOTA](https://iota.org/) or [NANO/Raiblocks](https://raiblocks.net/) would serve us better, or perhaps we should look at [NEO](https://neo.org/) where Smart Contracts can be written in any language? While Ethereum is the most mature and wildly used Blockchain platform, there are a number of platforms to consider.
    
-#### Contibutors & Legals:
-Some kind of legal document/agreement would need to be created to ensure our mutual obligations are contracturally understood and agreed.  Perhaps the signing of agreements can also be done via Smart Contracts?
+#### Contributors & Legals:
+Some kind of legal document/agreement would need to be created to ensure our mutual obligations are contractually understood and agreed.  Perhaps the signing of agreements can also be done via Smart Contracts?
 
 
-## Lower level Requirements, Deails, Thoughts, Questions:
+## Lower level Requirements, Details, Thoughts, Questions:
 
 #### How will the tool be used in practice? E.g. What will be the rewards process/workflow?
 
@@ -56,8 +56,8 @@ Some kind of legal document/agreement would need to be created to ensure our mut
 * Do the work and meet the conditions
 * Submit Invoice (e.g. this could be automated via a git-hook - the commit reference may contain the required ticket info to trigger the appropriate invoice)
 * Invoice approval process 
-* Immediate remittance via Ethereum blockchain.
-* Note: would need some way of requesting payment back from the Payee in the event of overpayments / mistakes
+* Immediate remittance via Ethereum Blockchain.
+* Note: would need some way of requesting payment back from the Payee in the event of overpayments / mistakes; would every micro-contribution be invoiced, or would they be done in weekly batches?
 
 
 #### Areas of functionality:
@@ -71,7 +71,7 @@ Some kind of legal document/agreement would need to be created to ensure our mut
 * Integrations (e.g. git-hooks)
 * Notifications & confirmation emails
 * Upload evidence of work?
-* View everyones contributions or just your own? Privacy / secrecy / Transparency?
+* View everyone's contributions or just your own? Privacy / secrecy / Transparency?
 
 *Consider the above as a work-in-progress, these are ideas only. More fleshing out to be done.
 

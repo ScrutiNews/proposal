@@ -33,7 +33,7 @@ The below is just one possibility on how to go about implementing this project. 
    - The Ethereum Smart Contracts can be built using [Solidity](https://solidity.readthedocs.io/en/develop/), [YouTube Tutorial](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
    - The Smart Contracts can be built and tested using [Truffle Framework](http://truffleframework.com/) and [Remix IDE](https://remix.ethereum.org/)
    - For many, this will be their first time working with Ethereum Smart Contracts. We will inevitably run into problems, but this will help us to learn, refine and improve
-   - One important thing to learn would be the likely cost of Ethereum Gas to record and manage transactions as we scale (see [Gas Price](https://etherscan.io/chart/gasprice) and [Gas Station Calculators](https://ethgasstation.info/).
+   - One important thing to learn would be the likely cost of Ethereum Gas to record and manage transactions as we scale (see [Gas Price](https://etherscan.io/chart/gasprice) and [Gas Station Calculators](https://ethgasstation.info/)).
    - A repos has been created for storing smart contracts at: https://github.com/ScrutiNews/project-rewards-contracts
 1. Next, we could build a fancy front-end User Interface (UI) to interface with the Smart Contracts:
    - Should we use the [Truffle Framework](http://truffleframework.com/) or build our own using a more traditional technical stack combined with the [Web3.js](https://github.com/ethereum/web3.js/) JavaScript API tool?

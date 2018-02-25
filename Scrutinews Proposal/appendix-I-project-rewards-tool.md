@@ -73,7 +73,7 @@ Some kind of legal document/agreement would need to be created to ensure our mut
 
 *Consider the above as a work-in-progress, these are ideas only. More fleshing out to be done.
 
-## Current Status & Progress
+## Current Status & Progress:
 * 25th February 2018 - This document is created, next step by John Durrant is to tinker with Ethereum Smart Contracts and the Truffle Framework.
 
 

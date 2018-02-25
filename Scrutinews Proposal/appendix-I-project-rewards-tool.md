@@ -27,10 +27,16 @@ The primary Use Case for this tool is to recognise contributors to a speculative
 The below is just one possibility on how to go about implementing this project. Better suggestions are welcome.
 
 1. Create the Ethereum Smart Contracts
-   - BUllet
+   - Create the main token contract, exposing methods to do 'Accounts Payble' functionality (invoicing, invoice approvals, remittences)
+   - Once the Smart Contracts are up and running, we could start using them for this 'Projects Rewards Tool' project by interacting with the contracts via the [Ethereum Mist Wallet](https://github.com/ethereum/mist/releases), [MetaMask](https://metamask.io/), or simply through an [Ethereum GETH Command Line Console](https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options)
+   - The Ethereum Smart Contracts can be built using [Solidity](https://solidity.readthedocs.io/en/develop/), [YouTube Tutorial](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
+   - The Smart Contracts can be built and tested using [Truffle Framework](http://truffleframework.com/) and [Remix IDE](https://remix.ethereum.org/)
+   - For many, this will be their first time working with Ethereum Smart Contracts. We will inevitably run into problems, but this will help us to learn, refine and iprove
+1. Next, we could build a fancy UI to interface with the Smart Contracts
    - Next Bullet
-1. Next step
+1. Tinker with other Smart Contracts to evaluate whether Ethereum is the most suitale for our needs
    - Next Bullet
+
 
 
 ## Lower level Requirements, Deails, Thoughts, Questions:

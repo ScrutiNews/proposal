@@ -69,6 +69,8 @@ Some kind of legal document/agreement would need to be created to ensure our mut
 * Upload evidence of work?
 * View everyones contributions or just your own? Privacy / secrecy / Transparency?
 
+*Consider the above as a work-in-progress, these are ideas only. More fleshing out to be done.
+
 ## Current Status
 25th February 2018 - This document is created, next step by John Durrant is to tinker with Ethereum Smart Contracts and the Truffle Framework.
 

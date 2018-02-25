@@ -1,11 +1,12 @@
 # Appendix I: Project Rewards Tool
 
+## Intro
 Here are specifications for a way of tracking people's contributions towards a project or a speculative venture so that participants know their contributions are safely recorded, in a fair way, so that they can be appropriate  recognised, paid, or rewarded when the project achieves its aims.
 
-#### Use Case:
+## Use Case:
 The primary Use Case for this tool is to recognise contributors to a speculative prototype project, primarily software developers, so that if the prototype becomes a commercially viable product, the contributors can be duly compensated for their support.
 
-#### High Level Specifications:
+## High Level Specifications:
 
 * The requirement is to build an online tool to track input (e.g. labour) into a project via cryptocurrency token payments, providing a transparent, immutable and secure method of accounting, resistant to fraud or hacks. 
 * The tokens could have real value, e.g. backed by an existing cryptocurrency, or they could have nominal value, just tokens representing effort, which may serve some other future purpose (e.g. converted into shares in a company).
@@ -22,7 +23,18 @@ The primary Use Case for this tool is to recognise contributors to a speculative
 * Or should the approval functionality be in an offline DB and only the approved transactions via Smart Contract?
 * The answer to the above may depend on Gas costs (e.g. if the cost of processing every single request to the Ethereum network is too much of an overhead for a full accounts payable system)
 
-#### Process:
+## Proposed Implementation:
+The below is just one possibility on how to go about implementing this project. Better suggestions are welcome.
+
+1. Create the Ethereum Smart Contracts
+..* BUllet
+..* Next Bullet
+1. Next step
+
+
+## Lower level Requirements, Deails, Thoughts, Questions:
+
+#### How will the tool be used in practice? E.g. What will be the rewards process/workflow?
 
 * Pre-agree a price for a work ticket (e.g. through bidding or through some other price setting method)
 * Pre-agree conditions, payments, and penalties

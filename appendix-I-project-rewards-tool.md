@@ -80,4 +80,4 @@ Some kind of legal document/agreement would need to be created to ensure our mut
 
 
 ----------
-[CONTENTS](README.md) | [< BACK](references.md) | [Next >]()
+[CONTENTS](README.md) | [< BACK](references.md) | [NEXT >](appendix-II-alternative-names.md)

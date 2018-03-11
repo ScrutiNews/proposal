@@ -10,6 +10,14 @@ The suggestions below are merely ideas to work with, to play with until the perf
 * YouScrute
 * Scrutineer
 * ShadesOfGrey
+* NewsAnnotated
+* NewsCurated
+* CuratedContent
+* ScrutinyNews
+* NewsScrutiny
+* Scrutini
+* ScrutinyHub
+* ScrutinyHive
 
 
 ----------
